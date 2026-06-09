@@ -26,7 +26,6 @@ Subscribing via URL is **strongly recommended** over downloading — your calend
 ```
 https://raw.githubusercontent.com/LiKH0N/FIFA-2026-ics/refs/heads/main/fifa-world-cup-2026%20.ics
 ```
-> Replace `YOUR-REPO-NAME` with your actual repository name.
 
 ---
 
