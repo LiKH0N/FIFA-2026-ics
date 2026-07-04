@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/LiKH0N/FIFA-2026-ics/refs/heads/main/fifa-worl
 |---|---|---|
 | Group Stage | Jun 11 – Jun 27 | ✅ All matches with team names |
 | Round of 32 | Jun 28+ | ✅ All matches with team names |
-| Round of 16 | Jul 4+ | ⏳ Teams TBD |
+| Round of 16 | Jul 4+ | ✅ All matches with team names |
 | Quarter-finals | Jul 9+ | ⏳ Teams TBD |
 | Semi-finals | Jul 14+ | ⏳ Teams TBD |
 | Third-place match | Jul 18 | ⏳ Teams TBD |
